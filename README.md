@@ -1,3 +1,5 @@
+Video: <https://www.youtube.com/watch?v=4q5YxJGe284>
+
 ## Commands typed to generate this project
 
 Open a terminal and type
