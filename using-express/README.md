@@ -2,7 +2,7 @@
 
 Video: <https://www.youtube.com/watch?v=4q5YxJGe284>
 
-<a href="https://www.youtube.com/watch?v=4q5YxJGe284&list=PLtwTKjkfyk3nweJwmmM_Sxd14BQG4JJR2">
+<a href="https://www.youtube.com/watch?v=4q5YxJGe284">
   <img src="https://img.youtube.com/vi/4q5YxJGe284/0.jpg">
 </a>
 
